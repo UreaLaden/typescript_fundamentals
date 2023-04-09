@@ -7,7 +7,8 @@
   },
   "scripts": {
     "rocket_launch": "ts-node src/02_interfaces/rocket_launch.ts",
-    "get_planets": "ts-node src/03_generics/get_planets.ts"
+    "get_planets": "ts-node src/03_generics/get_planets.ts",
+    "build":"tsc"
   },
   "repository": {
     "type": "git",
